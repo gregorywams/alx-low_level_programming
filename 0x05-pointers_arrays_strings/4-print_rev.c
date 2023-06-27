@@ -15,7 +15,7 @@ void print_rev(char *s)
 	while (*s != '\0')
 	{
 		longi++;
-		s++
+		s++;
 	}
 	s--;
 
@@ -24,6 +24,6 @@ void print_rev(char *s)
 		_putchar(*s);
 		s--;
 	}
-		_putchar(\n);
+		_putchar('\n');
 
 }
