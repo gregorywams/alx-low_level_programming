@@ -5,7 +5,6 @@
  * starting with the first one
  * @str: input
  * Return: print
-
  */
 
 void puts2(char *str)
